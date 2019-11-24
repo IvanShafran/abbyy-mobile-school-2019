@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActivitySample</string>
+
+    <string name="lifecycle_sample">Lifecycle</string>
+    <string name="finish_sample">Finish sample</string>
+    <string name="request_for_result_sample">Request for result sample</string>
+    <string name="arguments_sample">Arguments sample</string>
+    <string name="save_state_sample">Save state sample</string>
+
+    <string name="request_result">Request result</string>
+    <string name="result_hint">Type something</string>
+    <string name="result_button">Return result</string>
+    <string name="result_cancelled">Result cancelled</string>
+
+    <string name="increase_counter">Increase</string>
+</resources>
