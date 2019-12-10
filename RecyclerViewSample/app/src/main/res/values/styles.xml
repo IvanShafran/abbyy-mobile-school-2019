@@ -8,8 +8,4 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="ActivityMainLayoutStyle" >
-        <item name="android:orientation">vertical</item>
-    </style>
-
 </resources>

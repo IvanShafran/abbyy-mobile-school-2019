@@ -28,10 +28,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         animationViaAnimButton.setOnClickListener(this);
 
         pluralsOneTextView = findViewById(R.id.pluralsOneTextView);
-        pluralsOneTextView.setText(getResources().getQuantityString(R.plurals.plurals_sample, 1));
+        pluralsOneTextView.setText(getResources().getQuantityString(R.plurals.plurals_sample, 1, 1));
 
         pluralsOtherTextView = findViewById(R.id.pluralsOtherTextView);
-        pluralsOtherTextView.setText(getResources().getQuantityString(R.plurals.plurals_sample, 2));
+        pluralsOtherTextView.setText(getResources().getQuantityString(R.plurals.plurals_sample, 2, 2));
     }
 
     @Override

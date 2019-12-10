@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ResourcesSample</string>
     <plurals name="plurals_sample">
-        <item quantity="one">Apple</item>
-        <item quantity="other">Apples</item>
+        <item quantity="one">%1$d Apple</item>
+        <item quantity="other">%1$d Apples</item>
     </plurals>
 </resources>

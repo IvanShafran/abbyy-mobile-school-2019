@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Примеры ресурсов</string>
+    <plurals name="plurals_sample">
+        <item quantity="one">%1$d Яблоко</item>
+        <item quantity="few">%1$d Яблока</item>
+        <item quantity="many">%1$d Яблок</item>
+    </plurals>
 </resources>
