@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/anrButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ANR Example" />
+
+    <Button
+        android:id="@+id/kotlinButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kotlin example" />
+
+    <Button
+        android:id="@+id/handlerAndHandlerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Handler and handler example" />
+
+    <Button
+        android:id="@+id/asyncTaskButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AsyncTask example" />
+
+    <Button
+        android:id="@+id/asyncTaskAndLifecycleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AsyncTask with lifycycle example" />
+
+    <Button
+        android:id="@+id/loaderButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loader example" />
+
+</LinearLayout>
